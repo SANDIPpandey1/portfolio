@@ -78,17 +78,6 @@ body {
     margin-bottom: 3rem;
 }
 
-.profile-logo {
-    margin-bottom: 2rem;
-}
-
-.profile-logo img {
-    width: 100px;
-    height: auto;
-    border-radius: 8px;
-    border: 1px solid var(--grid);
-}
-
 .name {
     font-size: 3.5rem;
     font-weight: 900;
@@ -534,19 +523,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.header-logo {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    border-bottom: none !important;
-}
-
-.header-logo img {
-    height: 32px;
-    width: auto;
-    border-radius: 4px;
 }
 
 .nav-links {
